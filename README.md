@@ -23,5 +23,5 @@ WHEN USER refreshes the page
 THEN the saved events persist
 
 ## Demonstration
-![Workday Planner screenshot](https://github.com/ejoseph10/Fundamentals-challenge-five/assets/86362773/c4d62e87-cfc6-441c-ae1e-56082b2e5113)
+![Workday Planner screenshot](https://github.com/ejoseph10/Fundamentals-challenge-five/assets/86362773/c4d62e87-cfc6-441c-ae1e-56082b2e5113)(https://ejoseph10.github.io/Fundamentals-challenge-five/)
 
